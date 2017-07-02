@@ -1,5 +1,8 @@
 ## Changelog
 
+* Expressions are allowed in filters e.g. `[height] % 50 = 0` or `[height] + 10 = 0`, fields have to be properly written within brackets
+([#377](https://github.com/mapbox/carto/issues/377))
+
 ## 0.18.2
 
 * Remove `millstone` from optional dependencies again
