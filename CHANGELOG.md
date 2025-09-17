@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1
+
+* Fix npm package publishing error
+
 ## 1.3.0
 
 * Release under new organization - @cartocss/carto
