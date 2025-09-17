@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+
+* Release under new organization - @cartocss/carto
+
 ## 1.2.0
 
 * Update dependencies
